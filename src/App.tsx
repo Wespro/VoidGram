@@ -1,10 +1,6 @@
 import './globals.css';
 const App = () => {
-  return (
-    <div className='user-card  '>
-      <div className=''>App</div>
-    </div>
-  );
+  return <div className='font-bold underline '>App</div>;
 };
 
 export default App;
